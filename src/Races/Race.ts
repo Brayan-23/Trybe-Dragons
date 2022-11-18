@@ -1,6 +1,7 @@
 abstract class Race {
   private _name: string;
   private _dexterity: number;
+  
   constructor(n: string, d: number) {
     this._name = n;
     this._dexterity = d;
