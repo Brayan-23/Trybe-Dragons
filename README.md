@@ -25,7 +25,7 @@ Nste projeto, desenvolvi uma aplicação com os princípios da arquitetura SOLID
 - *Clonar o repositório:*
 
 ```
-$ git clone 
+$ git clone git@github.com:Brayan-23/Trybe-Dragons.git
 ```
 
 - *Acessar o projeto blogsapi:*
